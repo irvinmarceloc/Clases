@@ -28,7 +28,7 @@ public class areaTriangulo {
 		/* Se crea el objeto */
 		Triangulo obj_triangulo = new Triangulo();
 		
-		/* Bloque de instrucciones */
+		/* Bloque de instrucciones */ 
 		
 		//Ingresan valores por el usuario via consola
 		System.out.print("Entrar  base del triángulo>> ");
