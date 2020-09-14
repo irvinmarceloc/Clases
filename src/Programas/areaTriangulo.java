@@ -1,5 +1,3 @@
-package Programas;
-
 /* Calcular el área de un triángulo (1/2*b*h). Imprimir los datos de entrada y el resultado.*/
 import java.io.*;
 class Triangulo{
